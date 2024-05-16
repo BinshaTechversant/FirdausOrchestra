@@ -1,0 +1,13 @@
+{
+    "name": "Musician",
+    "alias": "musician",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Musician\\Providers\\MusicianServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

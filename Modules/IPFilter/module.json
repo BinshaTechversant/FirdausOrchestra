@@ -1,0 +1,13 @@
+{
+    "name": "IPFilter",
+    "alias": "ipfilter",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\IPFilter\\Providers\\IPFilterServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

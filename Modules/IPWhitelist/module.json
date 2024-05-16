@@ -1,0 +1,13 @@
+{
+    "name": "IPWhitelist",
+    "alias": "ipwhitelist",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\IPWhitelist\\Providers\\IPWhitelistServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

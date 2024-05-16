@@ -1,0 +1,13 @@
+{
+    "name": "EventSetting",
+    "alias": "eventsetting",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\EventSetting\\Providers\\EventSettingServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
